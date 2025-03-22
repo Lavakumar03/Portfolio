@@ -14,11 +14,9 @@ This is my personal portfolio website built using **React + Vite**. It showcases
 - Contact form with email integration 📩
 - Light/Dark mode (if implemented) 🌗
 
-## 📂 Project Structure
+## 🤝 Connect with Me
+- LinkedIn: linkedin.com/in/arigela-lavakumar
 
-🤝 Connect with Me
-LinkedIn: linkedin.com/in/arigela-lavakumar
+- GitHub: github.com/arigela-lavakumar
 
-GitHub: github.com/arigela-lavakumar
-
-Email: lavakumararigela.com
+- Email: lavakumararigela.com
