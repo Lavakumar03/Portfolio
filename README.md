@@ -1,3 +1,5 @@
+![Screenshot 2025-03-21 162608](https://github.com/user-attachments/assets/e9c2a565-ef20-4c83-a618-a4be7500e891)
+
 # 🚀 Lavakumar's Portfolio
 
 This is my personal portfolio website built using **React + Vite**. It showcases my skills, projects, certifications, and contact details.
@@ -20,3 +22,4 @@ This is my personal portfolio website built using **React + Vite**. It showcases
 - GitHub: github.com/arigela-lavakumar
 
 - Email: lavakumararigela.com
+
