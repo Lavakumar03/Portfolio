@@ -6,8 +6,6 @@ This is my personal portfolio website built using **React + Vite**. It showcases
 
 ## 🛠 Tech Stack
 - **Frontend**: React, Vite, Tailwind CSS
-- **Backend**: Node.js (if applicable)
-- **Database**: MongoDB (if applicable)
 - **Tools & Libraries**: ESLint, Prettier
 
 ## 🎨 Features
